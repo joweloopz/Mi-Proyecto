@@ -4,7 +4,8 @@
 #Version: 1.0.0
 
 def main():
-	print("Hola mundo")
+	nombre = input("CUAL ES TU NOMBRE? ")
+    print("Hola", nombre, "Bienvenido a Git!")
 
 if __name__= "__main__":
 	main()
